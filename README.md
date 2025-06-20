@@ -64,7 +64,7 @@ Build **expenseTracker** from the source and install dependencies:
 ```bash
 git clone https://github.com/ParvVijay0/expenseTracker
 
----
+```
 
 ## Usage
 
@@ -72,8 +72,9 @@ Run the project with:
 
 ```bash
 npm start
-
+```
 
 ```bash 
 npm test
+```
 
