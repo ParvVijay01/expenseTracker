@@ -55,4 +55,25 @@ This project requires the following dependencies:
 
 ---
 
+### Installation
+
+Build **expenseTracker** from the source and install dependencies:
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/ParvVijay0/expenseTracker
+
+---
+
+## Usage
+
+Run the project with:
+
+```bash
+npm start
+
+
+```bash 
+npm test
 
